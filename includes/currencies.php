@@ -42,6 +42,7 @@
 				'symbol' => '&yen;',
 				'position' => 'right'
 				),
+			'LKR' => __('Sri Lankan Rupee', 'pmpro'),	
 			'MYR' => __('Malaysian Ringgits', 'pmpro'),
 			'MXN' => __('Mexican Peso (&#36;)', 'pmpro'),
 			'NZD' => __('New Zealand Dollar (&#36;)', 'pmpro'),
